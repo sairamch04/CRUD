@@ -1,0 +1,12 @@
+
+  {
+    "_id": "575fabc7ec6fdb6b783e2485",
+    "studentId": 10,
+    "class": 8,
+    "name": "Sirisha Cherupally",
+    "marks":
+      {
+        "totalMarks": 500,
+        "percent": 83.3
+      }
+  }
